@@ -29,9 +29,9 @@
       "CC": "clang"
     },    
     "kernelSource": {
-      "name": "DogDay-KernelSU",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
+      "name": "kernel_xiaomi_sm8250",
+      "repo": "https://github.com/Flicker-Android-Devices/kernel_xiaomi_sm8250",
+      "branch": "PixelOS",
       "device": "thyme"
     },
     "withKernelSU": true,
